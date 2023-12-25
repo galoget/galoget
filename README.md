@@ -11,6 +11,11 @@ I currently work as a Penetration Tester and some of the certifications I hold a
 - Offensive Security Certified Professional (OSCP)
 - Offensive Security Wireless Professional (OSWP)
 - EC-Council Certified Ethical Hacker (CEH Practical)
+- eLearnSecurity Certified Professional Penetration Tester (eCPPT)
+- eLearnSecurity Certified Exploit Developer (eCXD)
+- eLearnSecurity Mobile Application Penetration Tester (eMAPT)
+- The SecOps Group Certified Network Pentester (CNPen)
+- The SecOps Group Certified AppSec Pentester (CAPen)
 - International Cybersecurity Institute Certified Network Security Specialist (CNSS)
 
 I also work as a Cybersecurity Instructor by giving talks and courses in different events and continuing education centers around the world:
